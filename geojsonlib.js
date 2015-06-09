@@ -1,1 +1,1 @@
-// Write your package code here!
+GeoLib = Npm.require('geojson.lib');

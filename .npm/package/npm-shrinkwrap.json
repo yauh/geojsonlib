@@ -1,0 +1,154 @@
+{
+  "dependencies": {
+    "geojson.lib": {
+      "version": "0.0.9",
+      "dependencies": {
+        "geojson-utils": {
+          "version": "1.1.0"
+        },
+        "terraformer-wkt-parser": {
+          "version": "1.0.0",
+          "dependencies": {
+            "terraformer": {
+              "version": "0.1.7"
+            }
+          }
+        },
+        "togeojson": {
+          "version": "0.8.0",
+          "dependencies": {
+            "xmldom": {
+              "version": "0.1.19"
+            },
+            "concat-stream": {
+              "version": "1.4.8",
+              "dependencies": {
+                "inherits": {
+                  "version": "2.0.1"
+                },
+                "typedarray": {
+                  "version": "0.0.6"
+                },
+                "readable-stream": {
+                  "version": "1.1.13",
+                  "dependencies": {
+                    "core-util-is": {
+                      "version": "1.0.1"
+                    },
+                    "isarray": {
+                      "version": "0.0.1"
+                    },
+                    "string_decoder": {
+                      "version": "0.10.31"
+                    }
+                  }
+                }
+              }
+            },
+            "minimist": {
+              "version": "0.0.8"
+            }
+          }
+        },
+        "geojson": {
+          "version": "0.2.0"
+        },
+        "ngeohash": {
+          "version": "0.6.0"
+        },
+        "geojson-precision": {
+          "version": "0.2.3",
+          "dependencies": {
+            "commander": {
+              "version": "2.8.1",
+              "dependencies": {
+                "graceful-readlink": {
+                  "version": "1.0.1"
+                }
+              }
+            }
+          }
+        },
+        "geojson-equality": {
+          "version": "0.0.0"
+        },
+        "geojson-flatten": {
+          "version": "0.1.0",
+          "dependencies": {
+            "minimist": {
+              "version": "0.0.5"
+            },
+            "concat-stream": {
+              "version": "1.2.1",
+              "dependencies": {
+                "bops": {
+                  "version": "0.0.6",
+                  "dependencies": {
+                    "base64-js": {
+                      "version": "0.0.2"
+                    },
+                    "to-utf8": {
+                      "version": "0.0.1"
+                    }
+                  }
+                }
+              }
+            },
+            "sharkdown": {
+              "version": "0.1.0",
+              "dependencies": {
+                "expect.js": {
+                  "version": "0.2.0"
+                },
+                "split": {
+                  "version": "0.2.10"
+                },
+                "stream-spigot": {
+                  "version": "2.1.2",
+                  "dependencies": {
+                    "readable-stream": {
+                      "version": "1.1.13",
+                      "dependencies": {
+                        "core-util-is": {
+                          "version": "1.0.1"
+                        },
+                        "isarray": {
+                          "version": "0.0.1"
+                        },
+                        "string_decoder": {
+                          "version": "0.10.31"
+                        },
+                        "inherits": {
+                          "version": "2.0.1"
+                        }
+                      }
+                    }
+                  }
+                },
+                "through": {
+                  "version": "2.3.7"
+                },
+                "cardinal": {
+                  "version": "0.4.4",
+                  "dependencies": {
+                    "redeyed": {
+                      "version": "0.4.4",
+                      "dependencies": {
+                        "esprima": {
+                          "version": "1.0.4"
+                        }
+                      }
+                    },
+                    "ansicolors": {
+                      "version": "0.2.1"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
